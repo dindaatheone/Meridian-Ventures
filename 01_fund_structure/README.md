@@ -20,13 +20,12 @@ institutional credibility layer of Meridian Ventures.
 
 ## Why This Section Exists
 
-Fund structure is not administrative detail. It is the
+Fund structure is the
 framework that aligns GP and LP incentives, protects
 LP capital, and signals institutional maturity to
 sophisticated investors.
 
-Every element of the structure documented here has
-a purpose. The hurdle rate protects LPs from paying
+Structure Purpose: The hurdle rate protects LPs from paying
 carry on mediocre returns. The clawback protects LPs
 from overpayment on early exits. The blind pool
 structure signals that the GP's investment thesis is
