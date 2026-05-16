@@ -158,7 +158,3 @@ Monitoring trigger: [What observation would indicate this risk is materializing]
 **Date completed:** [YYYY-MM-DD]
 **Reviewed by Managing Partner:** [YYYY-MM-DD]
 ```
-
-`Ctrl + S`
-
----
