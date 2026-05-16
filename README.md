@@ -12,7 +12,7 @@ Singapore-domiciled boutique private banking institution
 serving HNW and UHNW clients across five Asia-Pacific
 corridors: China, Singapore, Indonesia, Macau, and Brunei.
 
-Meridian Ventures is not a standalone PE fund. It is a
+Meridian Ventures is a
 hybrid: PE fund architecture nested inside private bank
 integration logic. This structure creates three competitive
 advantages that neither a pure PE fund nor a pure private
