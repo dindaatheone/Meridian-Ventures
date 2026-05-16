@@ -51,6 +51,7 @@ The hybrid closes both gaps simultaneously.
 
 ## Repo Architecture
 
+```
 Meridian-Ventures/
 |
 |-- 00_institutional_context/      <- Why Ventures exists inside a private bank
@@ -99,11 +100,10 @@ Meridian-Ventures/
 |   +-- performance_metrics_glossary.md <- IRR, MOIC, DPI, RVPI, TVPI, PME defined
 |
 +-- docs/
-|-- methodology.md             <- Why hybrid, how real options governs deployment
-|-- glossary.md                <- Ventures-specific terms scoped to Meridian usage
-+-- CHANGELOG.md               <- Version history
-
----
+    |-- methodology.md             <- Why hybrid, how real options governs deployment
+    |-- glossary.md                <- Ventures-specific terms scoped to Meridian usage
+    +-- CHANGELOG.md               <- Version history
+```
 
 ## Connection to the Other Two Repos
 
