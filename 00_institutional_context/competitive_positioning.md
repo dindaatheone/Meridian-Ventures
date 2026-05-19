@@ -91,8 +91,7 @@ a scaled model. That is Meridian's entry signal.
 
 This trigger is empirically observable through MAS
 quarterly statistical publications on AUM by institution.
-It is not a theoretical construct. It is a regulatory
-data point that can be tracked and acted on.
+It is a regulatory data point that can be tracked and acted on.
 
 ---
 
@@ -124,6 +123,5 @@ succession needs will find Meridian's bespoke offering
 more compelling - including the co-investment access
 that Meridian Ventures provides.
 
-The competitive positioning is not just a private
-banking strategy. It is a venture deal sourcing
+The competitive positioning is a venture deal sourcing
 and co-investment distribution strategy simultaneously.
