@@ -5,8 +5,7 @@
 Meridian Ventures is the capital deployment arm of
 Meridian Private Bank. It operates as a hybrid:
 PE fund architecture nested inside private bank
-integration logic. It is not a standalone fund.
-It is not a generic corporate venture arm. It is
+integration logic. It neither a standalone fund nor a generic corporate venture arm. Meridian Ventures is
 the growth engine of a boutique Asia-Pacific private
 banking institution, structured to extract value
 from the intersection of relationship intelligence
