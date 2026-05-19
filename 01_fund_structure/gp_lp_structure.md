@@ -102,5 +102,4 @@ is in place before the first dollar is committed.
 An LP Advisory Board comprising two to three LP
 representatives provides oversight on conflicts of
 interest, fund term amendments, and valuation disputes.
-The Advisory Board has no investment decision authority.
-It is a governance mechanism, not a co-decision body.
+The Advisory Board has no investment decision authority nor it has a co-decision body. The Advisory Board is a governance mechanism.
