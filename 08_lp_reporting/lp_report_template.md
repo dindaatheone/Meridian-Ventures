@@ -127,6 +127,36 @@ Portfolio sensitivity to current macro conditions:
 stress scenario. Draw from portfolio_impact.csv
 in Meridian-Monte-Carlo/02_macro_stress/outputs/.]
 
+### Capital Access Conditions
+
+The question for portfolio companies in the current environment
+is not whether capital exists. It is whether they can still
+access it, and at what cost to their strategic flexibility.
+
+Private credit at 8.0 to 8.5% yield to lenders does not stay
+with the lender. It flows directly to portfolio company margins,
+compresses exit multiples, and consumes the cash flow the
+capital was supposed to create. This is not a market cycle
+condition. Under fiscal dominance — where sovereign issuance
+crowds out private borrowing and capital seeks collateral
+quality over risk appetite — this is a structural condition
+that persists until the debt load resolves.
+
+The practical implication for this fund: portfolio companies
+requiring external financing in the deployment period face a
+K-shaped access environment. Companies with strong unit economics,
+dominant corridor positioning, or strategic relevance to the
+private bank's UHNW client network retain access on reasonable
+terms. Companies requiring patient capital on the basis of
+future growth alone face either dilutive private credit or
+compressed timelines to profitability. The IC monitors this
+distinction per position on a quarterly basis.
+
+| Portfolio Company | Funding Runway | External Financing Required | Capital Access Assessment |
+|---|---|---|---|
+| [Company 1] | [X] months | [Yes/No] | [Well-funded / Monitor / At risk] |
+| [Company 2] | [X] months | [Yes/No] | [Well-funded / Monitor / At risk] |
+
 ---
 
 ## Section 5 - Pipeline and Deployment Update
