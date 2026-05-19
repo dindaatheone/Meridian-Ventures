@@ -25,16 +25,14 @@ read together, produce a coherent investment framework.
 
 Bhide's venture capital research establishes that
 execution quality is the primary determinant of
-venture success - not idea novelty, not market timing,
-not founding team credentials in isolation. 88% of
+venture success. 88% of
 successful founders attribute success to exceptional
 execution of an ordinary idea. The implication for
 capital deployment is precise: invest where execution
 evidence exists, not where execution potential is argued.
 
 Real options theory establishes that staged capital
-deployment under uncertainty is not a concession to
-risk aversion - it is a value-maximizing strategy.
+deployment under uncertainty is a value-maximizing strategy.
 Each funding stage is a compound option. Series A
 capital buys the right to participate at Series B.
 Series B participation buys the right to co-lead
