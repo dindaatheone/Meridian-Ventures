@@ -26,6 +26,6 @@ The answer is that neither pure structure captures the
 full competitive advantage available to an institution
 with both a private banking client network and a
 disciplined capital deployment framework. The hybrid
-is not a compromise. It is a deliberate architectural
+is a deliberate architectural
 choice that produces advantages unavailable to either
 pure structure.
