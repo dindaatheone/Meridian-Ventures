@@ -137,9 +137,9 @@ Private credit at 8.0 to 8.5% yield to lenders does not stay
 with the lender. It flows directly to portfolio company margins,
 compresses exit multiples, and consumes the cash flow the
 capital was supposed to create. This is not a market cycle
-condition. Under fiscal dominance — where sovereign issuance
+condition. Under fiscal dominance where sovereign issuance
 crowds out private borrowing and capital seeks collateral
-quality over risk appetite — this is a structural condition
+quality over risk appetite this is a structural condition
 that persists until the debt load resolves.
 
 The practical implication for this fund: portfolio companies
