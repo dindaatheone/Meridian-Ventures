@@ -2,7 +2,7 @@
 
 ## Waterfall Order
 
-Money flows to LPs first. In full. Before the GP
+Money flows to LPs first. Before the GP
 receives any carried interest. This is the defining
 feature of the LP-protective waterfall structure.
 
