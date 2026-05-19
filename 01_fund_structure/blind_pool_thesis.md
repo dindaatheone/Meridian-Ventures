@@ -20,8 +20,7 @@ deal quality justifies and where Meridian's private
 banking client network provides sourcing advantage.
 
 **Stage:** Series A primary target. Series B follow-on
-in the strongest Series A performers. No pre-seed.
-No seed. No growth equity beyond Series B follow-on.
+in the strongest Series A performers. No pre-seed/seed/growth equity beyond Series B follow-on.
 
 **Check Size:** USD 5M to USD 20M initial investment.
 Follow-on reserves of up to 50% of initial check
@@ -35,8 +34,7 @@ advantage. See 02_investment_thesis/sector_focus.md.
 **Selection Principle:** Uncertainty-reduction over
 idea novelty. Investments require demonstrated
 execution evidence - minimum track record - before
-capital is deployed. This is not conservatism.
-It is the correct application of the Bhide finding:
+capital is deployed. This is the application of the Bhide finding:
 88% of successful ventures attribute success to
 exceptional execution of ordinary ideas, not
 extraordinary ideas.
